@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/samanthvadlamudy9/TEST%20PROJECT/_apis/build/status/TEST%20PROJECT-ASP.NET%20Core-CI?repoName=samanthvadlamudy9%2Fdotnet-core-sample&branchName=master)](https://dev.azure.com/samanthvadlamudy9/TEST%20PROJECT/_build/latest?definitionId=1&repoName=samanthvadlamudy9%2Fdotnet-core-sample&branchName=master)
 
+[![Build Status](https://dev.azure.com/samanthvadlamudy9/TEST%20PROJECT/_apis/build/status/samanthvadlamudy9.dotnet-core-sample?branchName=master)](https://dev.azure.com/samanthvadlamudy9/TEST%20PROJECT/_build/latest?definitionId=2&branchName=master)
+
 [![Build Status](https://dev.azure.com/L1088290910/MSDocumentationFirstPipeLine/_apis/build/status/MSDocumentationFirstPipeLine-CI)](https://dev.azure.com/L1088290910/MSDocumentationFirstPipeLine/_build/latest?definitionId=2)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
